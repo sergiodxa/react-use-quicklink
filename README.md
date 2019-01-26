@@ -5,9 +5,9 @@
 Quicklink hook for React. Run [quicklink](https://github.com/GoogleChromeLabs/quicklink) in your React application using a simple hook and prefetch all your links.
 
 > **Note:** This is using the new [React Hooks API Proposal](https://reactjs.org/docs/hooks-intro.html)
-> which is subject to change until React 16.7 final.
+> which is subject to change until React 16.8 final.
 >
-> You'll need to install `react`, `react-dom`, etc at `^16.7.0-alpha.0`
+> You'll need to install `react`, `react-dom`, etc at `^16.8.0-alpha.0`
 
 <a href="https://www.patreon.com/sergiodxa">
 	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
