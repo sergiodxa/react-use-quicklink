@@ -19,7 +19,7 @@
     "@babel/core": "7.2.2",
     "@babel/preset-env": "7.2.3",
     "react": "16.7.0-alpha.2",
-    "react-dom": "16.7.0-alpha.2"
+    "react-dom": "16.13.0"
   },
   "dependencies": {
     "quicklink": "^1.0.0"
